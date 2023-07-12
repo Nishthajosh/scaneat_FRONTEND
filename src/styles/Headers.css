@@ -1,0 +1,17 @@
+.icon_s{
+    height: 4.5rem;
+    width: 4.5rem;
+    line-height: 4.5rem;
+    font-size: 2rem;
+    background: #888282;
+    color: #130f40;
+    border-radius: .5rem;
+    margin-left: .3rem;
+    cursor: pointer;
+    text-align: center;
+  }
+
+.icon_s:hover {
+    color: #fff;
+    background: #27ae60;
+  }
